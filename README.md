@@ -1,1 +1,1 @@
-# Rose
+Gül resminde arkaplanı siyah yapıp, gülün kendi rengini detayları kaybetmeyecek şekilde mora dönüştürmek.
